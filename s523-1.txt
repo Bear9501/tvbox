@@ -1,7 +1,7 @@
 
     "urls": [
            {
-      "url": "https://raw.githubusercontent.com/bear532/tvbox/main/s523",
+      "url": "./s523",
       "name": "🐻‍貓影視🐻"  
     },
         {
@@ -17,8 +17,8 @@
             "name": "🚀PG线路"
         }, 				
         {
-            "url": "http://www.饭太硬.com/tv",
-            "name": "🚀饭太硬线路"
+            "url": "http://www.饭太硄1�7.com/tv",
+            "name": "🚀饭太硬线跄1�7"
         },          	
         {
             "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
@@ -30,11 +30,11 @@
         },		
         {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json",
-            "name": "🚀香雅情线路"
+            "name": "🚀香雅情线跄1�7"
         },	   
         {
             "url": "http://tvbox.王二小放牛娃.top",
-            "name": "🚀王二小线路"
+            "name": "🚀王二小线跄1�7"
         },		
         {
             "url": "http://tv.laohu.cool/tvbox.json",
@@ -42,7 +42,7 @@
         }, 	 		
         {
             "url": "http://www.meowtv.vip/tvbox.json",
-            "name": "🚀喵影视线路"
+            "name": "🚀喵影视线跄1�7"
         },	
         {
             "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
@@ -50,14 +50,14 @@
         }, 			
         {
             "url": "http://rihou.cc:555/nzk/nzk0722.json",
-            "name": "🚀D佬线路"
+            "name": "🚀D佬线跄1�7"
         },  		
         {
             "url": "http://肥猫.com",
             "name": "🚀肥猫线路"
         }, 
         {
-            "url": "http://我不是.摸鱼儿.com",
+            "url": "http://我不昄1�7.摸鱼億1�7.com",
             "name": "🚀摸鱼线路"
         },		
         {
