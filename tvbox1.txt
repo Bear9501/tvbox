@@ -163,6 +163,17 @@
     "changeable": 0
 },
 {
+            "name": "欧乐影院",
+            "key": "Olyy",
+            "type": 3,
+            "api": "csp_OlyyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://alist.hopto.org/cat/194.png"
+        },
+{
     "key": "T4-安博",
     "name": "安博(T4)",
     "type": 4,
