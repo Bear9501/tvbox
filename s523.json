@@ -105,7 +105,13 @@
 //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2JlYXIuOTQyMTg4Lnh5ei90dmJveC9zNTIzbGl2ZS50eHQ="]}]}],
 "lives":
     [
-	{
+{
+      "name": "四季",
+      "epg": "https://epg.yang-1989.eu.org/epg.xml.gz",
+      "url": "https://iptv543.com/bbb.php",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+     },
+		{
             "name": "4GTV1",
             "url": "./4gtv1.txt",
              "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
