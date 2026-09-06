@@ -152,6 +152,15 @@
 
 "sites":[
 
+   "key": "豆花影视[PY]",
+   "name": "🌸豆花影视[PY]",
+   "type": 3,
+   "api": "./py/豆花影视.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+
 {
     "key": "T4-heimuer",
     "name": "黑木耳(T4)",
