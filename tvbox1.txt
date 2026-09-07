@@ -294,7 +294,15 @@
    "quickSearch": 1,
    "filterable": 0
   },
-
+{
+      "key": "py_红果短剧",
+   "name": "红果短剧[PY]",
+   "api": "./py/短剧/红果短剧.py",
+   "filterable": 1,
+   "quickSearch": 1,
+   "searchable": 1,
+   "type": 3
+  },
 //{"key":"独播库","name":"🔥┃独播库","type":4,"api":"https://tvbot.ggff.net/duboku"},
 		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./jar/XBPQ.jar",
 			"ext": {
