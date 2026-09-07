@@ -295,9 +295,9 @@
    "filterable": 0
   },
 {
-      "key": "py_红果短剧",
-   "name": "红果短剧[PY]",
-   "api": "./py/红果短剧.py",
+      "key": "py_紅果短劇",
+   "name": "紅果短劇[PY]",
+   "api": "./py/紅果.py",
    "filterable": 1,
    "quickSearch": 1,
    "searchable": 1,
